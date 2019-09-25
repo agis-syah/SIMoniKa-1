@@ -1,5 +1,7 @@
 # Sistem Informasi Monitoring Kinerja Karyawan (SIMoniKa)
 
+Sistem Monitoring Kinerja Karyawan yang dibuat sebagai contoh kasus dalam mata kuliah pemograman web dan mobile di STMIK IBBI Medan
+
 ## User 
 	* Admin
 	* Staff
